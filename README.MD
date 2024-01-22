@@ -13,7 +13,7 @@ Our project has the potential to include augmented reality (AR) and virtual real
 [👉  App Link](https://drive.google.com/file/d/1OPUSOeSdHRs_Zm4E083SmNHeOkh-9U7b/view?usp=sharing)
 
 ## App Instructions
-1. Click on any planet,then focus of view changed to that planet, Zoom view is open.
+1. Click on any planet, then focus of view changed to that planet, Zoom view is open.
 2. When you perform below action, on any planet, it display information of that planet 
 
 <img src = "action.gif" width = "250" height = "250">
